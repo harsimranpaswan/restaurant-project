@@ -51,21 +51,8 @@ A computer database works as an electronic filing system which has a large numbe
 
 The DBMS integrates and processes users request to retrieve information from database. In most cases, a query request will have to penetrate several layers of software in DBMS and operating system before the physical database can be accessed. The database response to a query by invoking the appropriate subprograms each of which performs its special function to interpret the query, or to locate the desired data in the database and present it in the desired order.
 
-![Shape1](RackMultipart20230627-1-k9rnkx_html_35e7e6efe79c6172.gif)
-
 **Basic Database Transaction**
-
-![Shape2](RackMultipart20230627-1-k9rnkx_html_221204490000ab42.gif) ![Shape3](RackMultipart20230627-1-k9rnkx_html_9204388ee386e3f6.gif)
-
-**FRONT**
-
-**END**
-
-**BACK**
-
-**END**
-
-![Shape4](RackMultipart20230627-1-k9rnkx_html_9f94c545a6305b51.gif)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Screenshot%202023-06-27%20171121.png)
 
 ## **2.MySQL**
 
@@ -127,8 +114,6 @@ Soon after ,they were contracted by Roman Stanek, an entrepreneur who had alread
 
 ## **The Hardware used**
 
-## _ **:** _
-
 While developing the system, the used hardware are:
 
 ACER ASPIRE 5 with Intel i5 8th gen processor, having 4 GB
@@ -179,7 +164,7 @@ Provide current password of root and new password as "XYZ", this will change the
 
 The Restaurant Management Program consists of the following logically organized Menu-structure for the easy functionality. User choose the Menu options for corresponding works.
 
-![](RackMultipart20230627-1-k9rnkx_html_32bde813e88bfc58.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture1.jpg)
 
 **Items management:**
 
@@ -199,8 +184,8 @@ This menu keeps the record of booked tables divided into different sections as p
 
 # I/O Forms Design
 
-![](RackMultipart20230627-1-k9rnkx_html_68879384ff4a212a.jpg)
 ## Login Window
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture2.jpg)
 
 Coding
 
@@ -232,7 +217,7 @@ else JOptionPane.showMessageDialog(null,"Incorrect ID");
 
 ## Main Window
 
-![](RackMultipart20230627-1-k9rnkx_html_32bde813e88bfc58.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture3.jpg)
 
 Coding
 
@@ -276,7 +261,7 @@ b.setVisible(true); }
 
 ## Items Management
 
-![](RackMultipart20230627-1-k9rnkx_html_687c01f4b1202b2c.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture4.jpg)
 
 Coding
 
@@ -360,9 +345,8 @@ correct");
 
 }
 
-![](RackMultipart20230627-1-k9rnkx_html_b13cc879c2b5276b.jpg)}
-
-![](RackMultipart20230627-1-k9rnkx_html_d2900afed882b462.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture5.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture6.jpg)
 
 **private void removeActionPerformed(java.awt.event.ActionEvent evt) {**
 
@@ -442,7 +426,7 @@ System.exit(0); }
 
 ## Employees Management
 
-![](RackMultipart20230627-1-k9rnkx_html_af95f8fca4422e0c.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture7.jpg)
 
 Coding
 
@@ -532,7 +516,8 @@ JOptionPane.showMessageDialog(null,"Please check if all fields are
 
 correct"); } }
 
-![](RackMultipart20230627-1-k9rnkx_html_c012a54ce6c652e.jpg) ![](RackMultipart20230627-1-k9rnkx_html_acf9122af19a8630.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture8.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture9.jpg)
 
 **private void removeActionPerformed(java.awt.event.ActionEvent evt) {**
 
@@ -610,8 +595,8 @@ l.setVisible(true); }
 
 System.exit(0); }
 
-![](RackMultipart20230627-1-k9rnkx_html_d56be071844223ca.jpg)
 ## Calculate Bill
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture10.jpg)
 
 Coding
 
@@ -775,7 +760,7 @@ System.exit(0);
 
 ## Table Booking / Cancellation
 
-![](RackMultipart20230627-1-k9rnkx_html_23f6c710429f4c95.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture11.jpg)
 
 Coding
 
@@ -971,7 +956,7 @@ price.setText(""+p);
 
 members.setText(""+m); }
 
-![](RackMultipart20230627-1-k9rnkx_html_d3e45a76ce23d62.jpg)
+![Image](https://github.com/harsimranpaswan/restaurant-project/blob/main/project-report/Picture12.jpg)
 
 **private void okActionPerformed(java.awt.event.ActionEvent evt)** {
 
