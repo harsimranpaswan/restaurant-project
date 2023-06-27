@@ -1,4 +1,4 @@
-# restaurant-project
+# RESTAURANT MANAGEMENT SYSTEM
 <H3>Please refer to the project report for a detailed explanation</H3>
 https://github.com/harsimranpaswan/restaurant-project/tree/main/project-report<br><br>
 
